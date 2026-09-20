@@ -1,0 +1,5 @@
+- Know some SQL(INSERT, DELETE, UPDATE).
+- Have done some back-end development.
+- Know what a computer is (CPU, threads, memory, network card). **1 byte is equal to 8 bits.**
+- Know what Node.js is, install it and run a simple script.
+- Know how to SSH into a computer and use basic terminal commands.
