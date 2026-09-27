@@ -1,0 +1,2 @@
+with `redis.sh` script we can easily run many clusters of redis, it is going to setup 30 clusters of redis(on the creator machine).
+- A single redis instance is single threaded so it's not gonna be really able to scale that much. 
